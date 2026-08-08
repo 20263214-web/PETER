@@ -1,0 +1,28 @@
+# 핵심 앱 프레임워크
+streamlit
+pandas
+numpy
+plotly
+
+# 실제 주가 데이터
+finance-datareader
+lxml
+requests-file
+tabulate
+tqdm
+
+# 실제 PER 등 시장 지표
+pykrx
+deprecated
+multipledispatch
+matplotlib
+
+# DART 공시 재무제표
+OpenDartReader
+
+# 뉴스 크롤링
+requests
+beautifulsoup4
+
+# 선택: LLM 연동 (OpenAI API 키 입력 시에만 사용)
+openai
